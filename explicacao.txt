@@ -1,0 +1,17 @@
+qtd minima:
+48g guarana
+12g cafeína
+
+qtd máxima:
+20g cafeína
+
+1 dose solução red (x)
+custa R$0,06
+8g guaraná
+1g cafeína
+
+solução blue (y)
+custa R$0,08
+6g guaraná
+2g cafeína
+
